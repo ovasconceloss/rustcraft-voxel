@@ -10,3 +10,4 @@ keywords = ["gamedev", "voxel engine", "engine", "craft and mine"]
 
 [dependencies]
 wgpu = "26.0.1"
+winit = "0.30.12"
