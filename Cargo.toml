@@ -1,0 +1,11 @@
+[package]
+name = "rustcraft"
+version = "0.1.0"
+authors = ["Victor Olimpio Vasconcelos <victorolimpiovasconcelos.dev@gmail.com "]
+edition = "2024"
+description = "A voxel engine developed in Rust"
+readme = "README.md"
+license = "MIT"
+keywords = ["gamedev", "voxel engine", "engine", "craft and mine"]
+
+[dependencies]
